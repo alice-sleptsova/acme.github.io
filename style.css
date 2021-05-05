@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
     position: absolute;
     font-size: 24px;
     top: 40px;
-    left: 34%;
+    left: 28%;
     text-transform: uppercase;
     color: cornsilk;
     
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 18px;
     font-weight:400;
     top: 85px;
-    left: 20%;
+    left: 16%;
     color: cornsilk;
 }
 .pod2 {
@@ -57,19 +57,19 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 15px;
     font-weight: 200;
     top: 160px;
-    left: 19%;
+    left: 16%;
     color: cornsilk;
 }
 
 .btn1 {
    position: absolute;
    margin-left: 40px;
-   top: 340px;
+   top: 330px;
 }
 .btn2 {
     position: absolute;
-    margin-left: 325px;
-    top: 340px;
+    margin-left: 320px;
+    top: 330px;
     }
 
 .tema {
