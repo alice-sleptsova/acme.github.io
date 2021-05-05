@@ -14,8 +14,7 @@ body {
 }
 section {
     width: 375px;
-    overflow-y: scroll;
-    border: 1px solid #ccc;
+    
     
 }
 h1, h2, h3, h4, h5, h6 {
