@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <g id="button-right" transform="translate(-297 -304)">
+    <circle id="Эллипс_5" data-name="Эллипс 5" cx="20.5" cy="20.5" r="20.5" transform="translate(297 304)" fill="#662f9d"/>
+    <path id="Icon_ionic-ios-arrow-round-back" data-name="Icon ionic-ios-arrow-round-back" d="M17.062,11.435a.653.653,0,0,0,0,.92L20.092,15.4H8.527a.65.65,0,0,0,0,1.3H20.092l-3.04,3.045a.658.658,0,0,0,.005.92.647.647,0,0,0,.915,0l4.12-4.15h0a.73.73,0,0,0,.135-.205.62.62,0,0,0,.05-.25.652.652,0,0,0-.185-.455l-4.12-4.15A.637.637,0,0,0,17.062,11.435Z" transform="translate(302.118 308.748)" fill="#fff"/>
+  </g>
+</svg>
