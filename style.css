@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
     position: absolute;
     font-size: 24px;
     top: 40px;
-    left: 28%;
+    left: 20%;
     text-transform: uppercase;
     color: cornsilk;
     
@@ -64,12 +64,12 @@ h1, h2, h3, h4, h5, h6 {
 .btn1 {
    position: absolute;
    margin-left: 40px;
-   top: 330px;
+   top: 320px;
 }
 .btn2 {
     position: absolute;
     margin-left: 320px;
-    top: 330px;
+    top: 320px;
     }
 
 .tema {
